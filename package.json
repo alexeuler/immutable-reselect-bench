@@ -1,0 +1,16 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "immutable vs js",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "node index.js",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "reselect": "^2.5.4"
+  }
+}
